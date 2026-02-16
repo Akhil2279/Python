@@ -1,0 +1,2 @@
+This file is created using x mode.
+This line is appended to the file using a mode.
